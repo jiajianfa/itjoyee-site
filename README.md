@@ -48,8 +48,9 @@ $ hexo server
 
 - 安装
 git clone https://github.com/A-limon/pacman.git themes/pacman
+```
 Pacman需要安装Hexo 2.4.5 或以上版本 请先升级您的Hexo程序，再启用此主题。
-
+```
 - 启用
 修改你的博客根目录下的config.yml配置文件中的theme属性，将其设置为pacman。同时请设置stylus属性中的compress值为true。
 
